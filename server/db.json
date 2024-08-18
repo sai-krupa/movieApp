@@ -1,0 +1,312 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "name": "Guardians of the Galaxy",
+      "year": 2014,
+      "genre": "Action",
+      "image": "images/GuardiansoftheGalaxy.jpg",
+      "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe. Led by Peter Quill, they form an unlikely alliance to save the galaxy from destruction."
+    },
+    {
+      "id": 1,
+      "name": "Black Panther",
+      "year": 2018,
+      "genre": "Sci-Fi",
+      "image": "images/BlackPanther.jpg",
+      "description": "Black Panther follows T'Challa, who returns to the isolated, technologically advanced African nation of Wakanda to take the throne as king after the death of his father. He faces challenges from rival factions and must protect his homeland from external threats."
+    },
+    {
+      "id": 2,
+      "name": "Spider-Man: Far From Home",
+      "year": 2019,
+      "genre": "Comedy",
+      "image": "images/SpiderManFarFromHome.jpg",
+      "description": "Following the events of Avengers: Endgame, Peter Parker goes on a school trip to Europe, where he is recruited by Nick Fury to face a new threat in the form of the Elementals, while also dealing with the loss of his mentor, Tony Stark."
+    },
+    {
+      "id": 3,
+      "name": "The Avengers",
+      "year": 2012,
+      "genre": "Action, Adventure, Sci-Fi",
+      "image": "images/TheAvengers.jpg",
+      "description": "Nick Fury of S.H.I.E.L.D. assembles a team of superheroes, including Iron Man, Captain America, Thor, the Hulk, Black Widow, and Hawkeye, to stop Loki and his alien army from subjugating Earth."
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "year": 2021,
+      "genre": "Thriller",
+      "image": "images/BlackWidow.jpg",
+      "description": "Set after the events of Captain America: Civil War, Black Widow follows Natasha Romanoff as she confronts her past and the dark secrets that haunt her. She must deal with a dangerous conspiracy tied to her history while facing off against a formidable foe."
+    },
+    {
+      "id": 5,
+      "name": "The Dark Knight",
+      "year": "2008",
+      "genre": "Action",
+      "image": "images/TheDarkKnight.jpg",
+      "description": "This sequel to 'Batman Begins' sees the emergence of the Joker, a criminal mastermind who seeks to plunge Gotham City into anarchy. Batman must confront his greatest challenge yet, testing his moral limits and the city's trust in him."
+    },
+    {
+      "id": 6,
+      "name": "Pulp Fiction",
+      "year": "1994",
+      "genre": "Crime",
+      "image": "images/PulpFiction.jpg",
+      "description": "Quentin Tarantino's iconic film intertwines several stories of Los Angeles mobsters, small-time criminals, and a mysterious briefcase. Known for its eclectic dialogue and non-linear narrative, it has become a hallmark of independent cinema."
+    },
+    {
+      "id": 7,
+      "name": "Forrest Gump",
+      "year": "1994",
+      "genre": "Drama",
+      "image": "images/ForrestGump.jpg",
+      "description": "The life story of Forrest Gump, a man with a low IQ but a kind heart, who unwittingly influences several historical events in the 20th century. Through his eyes, we see the joys and tragedies of life, love, and friendship."
+    },
+    {
+      "id": 8,
+      "name": "Inception",
+      "year": "2010",
+      "genre": "Sci-Fi",
+      "image": "images/Inception.jpg",
+      "description": "Dom Cobb is a skilled thief who specializes in extracting secrets from deep within the subconscious during dreams. He is offered a chance to have his criminal history erased if he can accomplish the impossible: planting an idea in someone's mind."
+    },
+    {
+      "id": 9,
+      "name": "The Matrix",
+      "year": "1999",
+      "genre": "Sci-Fi",
+      "image": "images/TheMatrix.jpg",
+      "description": "A hacker named Neo discovers the shocking truth about his reality and his role in the war against its controllers. Blending philosophy, technology, and groundbreaking special effects, 'The Matrix' has become a cultural landmark."
+    },
+    {
+      "id": 10,
+      "name": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "genre": "Action",
+      "image": "images/TheLordoftheRings.jpg",
+      "description": "The epic conclusion to the 'Lord of the Rings' trilogy where the fate of Middle-earth hangs in the balance. As the final battle for freedom begins, Frodo and Sam continue their perilous journey to destroy the One Ring."
+    },
+    {
+      "id": 11,
+      "name": "Interstellar",
+      "year": "2014",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "image": "images/Interstellar.jpg",
+      "description": "In a future where Earth is dying, a team of explorers travels through a wormhole in search of a new home for humanity. The film explores themes of love, sacrifice, and the complexities of time and space."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "movieId": 0,
+      "rating": 5,
+      "text": "An incredible movie. One that lives with you.",
+      "author": "Simon Hunt",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 1,
+      "movieId": 0,
+      "rating": 4,
+      "text": "One of the funniest Marvel films is a comedy movie with distinction. A simple story. All the heroes of the film were excellent, especially Drax, Rocket, Groot, and Alcmestri among the heroes of the film was excellent.",
+      "author": "Amy Keophilavong",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "rating": 3,
+      "text": "I found it funny, touching, strong as well as weak at some points... I do have to say that it has been over-hyped. It's not as good as Age of Ultron, and many of MCU releases",
+      "author": "Zandra Katherine",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "rating": 3,
+      "text": "A very creative take on the Superhero genre.",
+      "author": "Jean Luc",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 4,
+      "movieId": 5,
+      "rating": 5,
+      "text": "Best movie ever. Heath ledger's work is phenomenal no words......",
+      "author": "R. E. Osariemen",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 5,
+      "movieId": 5,
+      "rating": 4,
+      "text": "Heath Ledger's Joker is the best movie charachter I have ever seen by far. Avengers Endgame is great, but The Dark Knight is much better. ",
+      "author": "Juan Cortez",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 6,
+      "movieId": 6,
+      "rating": 5,
+      "text": "The masterpiece without a message",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 7,
+      "movieId": 6,
+      "rating": 5,
+      "text": "I like the bit with the cheeseburger. It makes me want to go and get a cheeseburger",
+      "author": "Brennen Ech",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 8,
+      "movieId": 7,
+      "rating": 4,
+      "text": "Forrest Gump is one of the best movies of all time, guaranteed. I really just love this movie and it has such a special place in my heart. The performances are just so unforgettable and never get out of your head. ",
+      "author": "Amy Keophilavong",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 9,
+      "movieId": 7,
+      "rating": 5,
+      "text": "A wonderful film with purity and innocence retained",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 10,
+      "movieId": 8,
+      "rating": 5,
+      "text": "Inception was only less shocking to me than the Matrix",
+      "author": "Olaf the Snowman",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 11,
+      "movieId": 8,
+      "rating": 1,
+      "text": "Insanely Brilliant ! Nolan has outdone himself !",
+      "author": "Vincent and Mona Lisa Gambini",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 12,
+      "movieId": 9,
+      "rating": 5,
+      "text": "A great movie you can watch again and again",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 13,
+      "movieId": 9,
+      "rating": 4,
+      "text": "The movie is phenomenal. I liked every single actor, the story was great and had some plot twists.",
+      "author": "Amy Keophilavong",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 14,
+      "movieId": 9,
+      "rating": 5,
+      "text": "The hype was real, it is still not easy to match the level of Matrix where we experience the connection of humans and science, that too with amazing action fight and chase scenes",
+      "author": "Dave Lister",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 15,
+      "movieId": 10,
+      "rating": 4,
+      "text": "This film doesn't age, it will be contemporary even in 2030 or 2040 best one, by far.",
+      "author": "Markell Richards",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 16,
+      "movieId": 11,
+      "rating": 5,
+      "text": "I expected much better after all the hype",
+      "author": "Amy Keophilavong",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 17,
+      "movieId": 3,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 18,
+      "movieId": 11,
+      "rating": 4,
+      "text": "I was expecting a total fiasco but I must admit that aesthetically and visually it is an excellent job. ",
+      "author": "Chloe Haskins",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 19,
+      "movieId": 11,
+      "rating": 5,
+      "text": "Interstellar is a movie like no other. Unlike many apocalyptic sci-fi films that feature advanced technology as the source of our destruction, it instead asserts that technology will save us.",
+      "author": "Minae Lee",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 20,
+      "movieId": 2,
+      "rating": 5,
+      "text": "An incredible movie. One that lives with you.",
+      "author": "Simon Hunt",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 21,
+      "movieId": 2,
+      "rating": 5,
+      "text": "Amazing movie. Many surprises in the movie and, 3D effects and visuals are amazing. And it's credit scenes is best in the history of MCU.",
+      "author": "Jordan Runn",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 22,
+      "movieId": 3,
+      "rating": 5,
+      "text": "The Avengers Assemble for the First Time",
+      "author": "Markell Richards",
+      "date": "2018-11-25T17:30Z"
+    },
+    {
+      "id": 23,
+      "movieId": 3,
+      "rating": 5,
+      "text": "They balanced everything masterfully. As Good As It Gets!!!",
+      "author": "Jordan Runn",
+      "date": "2012-6-25T12:30Z"
+    },
+    {
+      "id": 24,
+      "movieId": 4,
+      "rating": 5,
+      "text": "Natasha Romanoff, aka The Black Widow, finally gets to tell her story",
+      "author": "Dave Lister",
+      "date": "2014-10-25T11:30Z"
+    },
+    {
+      "id": 25,
+      "movieId": 4,
+      "rating": 5,
+      "text": "Florence Pugh carried this movie, her and David Harbour laid down some seriously good comedic moments.",
+      "author": "Jordan Runn",
+      "date": "2018-10-25T16:30Z"
+    }
+  ]
+}
